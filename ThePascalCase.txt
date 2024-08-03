@@ -1,8 +1,8 @@
-// Pascal case is similar to camel case.
-//The only difference between the two is that pascal case
-//requires the first letter of the first word to also be capitalized.
-
+Pascal case is similar to camel case.
 
 it looks something like this:
 
 ThePascalCase
+
+//The only difference between the two is that pascal case
+//requires the first letter of the first word to also be capitalized.
