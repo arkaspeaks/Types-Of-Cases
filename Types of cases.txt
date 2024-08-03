@@ -1,0 +1,6 @@
+There are 4 types of cases when it comes to programming:
+
+1. the Camel Case 
+2. the Pascal Case
+3. the Snake Case
+4. the Kebab Case
