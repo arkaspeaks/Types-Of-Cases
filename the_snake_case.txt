@@ -1,0 +1,12 @@
+the snake case becomes of the other most used cases..
+
+it looks something like this:
+
+the_snake_case 
+
+the basic of which is 
+1. all lowercase characters
+2. the words are separated by underscores
+
+//Words are separated by underscores and all letters are lowercase.
+//In this naming convention, spaces between words are replaced with underscores.
