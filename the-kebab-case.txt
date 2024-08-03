@@ -1,0 +1,12 @@
+the kebab case becomes of the other most used cases..
+
+it looks something like this:
+
+the-kebab-case 
+
+the basic of which is 
+1. all lowercase characters
+2. the words are separated by hyphens/dashes
+
+//Words are separated by hyphens and all letters are lowercase.
+//In this naming convention, spaces between words are replaced with dashes.
