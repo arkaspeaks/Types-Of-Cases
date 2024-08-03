@@ -1,0 +1,8 @@
+the camel case is one of the most used cases among people. 
+
+it looks something like this:
+
+CamelCase 
+
+// the basic of which is it starts with a capital letter
+//at the start of every word
