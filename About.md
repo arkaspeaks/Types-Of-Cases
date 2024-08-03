@@ -1,2 +1,2 @@
 # Types-Of-Cases
-Documenting for myself 
+Documenting for myself 😀
